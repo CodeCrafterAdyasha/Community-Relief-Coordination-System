@@ -98,4 +98,4 @@ src/main/java/com/communityrelief/
 
 ---
 
-**Built with ❤️ using Pure Java** • *No external dependencies required*
+
